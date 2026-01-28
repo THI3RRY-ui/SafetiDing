@@ -1,0 +1,15 @@
+Everything is synced and looks professional. What's the next move? Are we going to:
+
+Add Logic: Validate the email and phone number to make sure they are correct before signing up?
+
+Create a New Page: Build the Login Page or the Home/Dashboard?
+
+Animations: Add some "pop" to the buttons or transitions between pages?
+
+Database: Start connecting this to Firebase or a local database?
+
+Tell me what you have in mind and let's build it!
+
+
+
+wjzf vdxg hakm asfs
