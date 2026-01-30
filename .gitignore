@@ -50,3 +50,34 @@ ios/Runner/GoogleService-Info.plist
 lib/firebase_options.dart
 .env
 
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+
+# Android
+android/.gradle/
+android/build/
+
+# iOS
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/App.framework
+
+# Desktop builds
+linux/build/
+windows/build/
+macos/build/
+
+# Firebase
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+.env
+
+
+*.exe
+firebase-tools*
+
